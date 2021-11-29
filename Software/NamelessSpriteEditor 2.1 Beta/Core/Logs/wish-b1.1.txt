@@ -1,0 +1,7 @@
+11/28/2021 6:21:35 PM : Opened with NSE 2.X.
+11/28/2021 6:21:52 PM : Opened with NSE 2.X.
+11/28/2021 6:25:43 PM : Opened with NSE 2.X.
+11/28/2021 6:31:26 PM : Opened with NSE 2.X.
+11/28/2021 6:34:21 PM : Opened with NSE 2.X.
+11/28/2021 6:42:28 PM : Opened with NSE 2.X.
+11/28/2021 6:43:12 PM : Navigated 0xDDFD94 GrayScale : 8, 1

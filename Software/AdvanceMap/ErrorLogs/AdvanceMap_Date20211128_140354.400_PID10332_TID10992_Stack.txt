@@ -1,0 +1,38 @@
+(EConvertError) "" is an invalid integer
+Stacktrace:
+  $004268A1
+  $0046F707
+  $00471CF0
+  $00472ED7
+  $0051A394
+  $0053D691
+  $0053BD90
+  $005195D0
+  $0051A0FD
+  $0040AFFA
+  $00518358
+  $0050FC57
+  $00510D0E
+  $0056FE17
+  $0052F6E5
+  $76C431DB
+  $76C3A17A
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\rootp\Documents\Modding\Roms\Pokemon - FireRed Version (USA, Europe) (Rev 1).gba
+Romname: POKEMON FIREBPRE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 0
+MapIndex: CL:2
+OldMapIndex: CL:2
+LoadingMapIndex: CL:2
+isMapFile: false
+MapHeaderData: 6C532D08FC973B081B8D1608000000002C0102005800000800000000
+MapFooterData: 0C000000090000008C522D0894522D08244C2D08E44C2D0802020000
+EventHeaderData: 0001000300000000D0973B0800000000D8973B08
+Connections (ConDataOffset/ConnectionAmount): $000000 / 0
+WildPokemonHeader: FFFF000000000000000000000000000000000000
